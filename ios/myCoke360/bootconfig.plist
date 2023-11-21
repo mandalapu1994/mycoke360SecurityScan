@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+<!-- SDPN009 Connected APP - myCoke360 -->
+<!-- <dict>
+	<key>remoteAccessConsumerKey</key>
+	<string>3MVG9qG3qyJ7I8u35K..kKx8O8WXpUNcarCwugYh.HenOhkKZvDnHqAPSI2V.lpcNXrrgChpU2h0hTro4LPg8</string>
+	<key>oauthRedirectURI</key>
+	<string>myCoke360:///mobilesdk/detect/oauth/done</string>
+	<key>oauthScopes</key>
+	<array>
+		<string>web</string>
+		<string>api</string>
+		<string>offline_access</string>
+	</array>
+	<key>shouldAuthenticate</key>
+	<false/>
+</dict> -->
+
+<!-- MPRN002 Connected APP - myCoke360Mobile -->
+<dict>
+    <key>remoteAccessConsumerKey</key>
+    <string>3MVG9Ccwq.TeycMaEFqP7g7AurJG4DDpJeE1tCWYuxYtlUWcP3zumWSxxAQNb7HxkuuvfI3paGv5bcnS7OdLK</string>  
+    <key>oauthRedirectURI</key>
+    <string>myCoke360:///mobilesdk/detect/oauth/done</string>
+    <key>oauthScopes</key>
+    <array>
+        <string>web</string>
+        <string>api</string>
+        <string>offline_access</string>
+    </array>
+    <key>shouldAuthenticate</key>
+    <false/>
+</dict>
+
+<!-- MPRN001 Connected APP - myCoke360Mobile -->
+<!-- <dict>
+    <key>remoteAccessConsumerKey</key>
+    <string>3MVG9FG3dvS828gJdonCF8hFYsCcMrNZws9866zbf37BOgO3LU9yW9Pm3bRzbG4NfLYclUxVAIYHybBSQ33FL</string>  
+    <key>oauthRedirectURI</key>
+    <string>myCoke360:///mobilesdk/detect/oauth/done</string>
+    <key>oauthScopes</key>
+    <array>
+        <string>web</string>
+        <string>api</string>
+        <string>offline_access</string>
+    </array>
+    <key>shouldAuthenticate</key>
+    <false/>
+</dict> -->
+
+<!-- LFLN011 Connected APP - myCoke360Mobile -->
+<!-- <dict>
+    <key>remoteAccessConsumerKey</key>
+    <string>3MVG9wy_WnyGrHdMwBTTuCQPI036zUEXp0q.IFJ9Bu6wVIdHc2ONqL9uSa86omkSQZSI8q5NHuT8DircUmntM</string>  
+    <key>oauthRedirectURI</key>
+    <string>myCoke360:///mobilesdk/detect/oauth/done</string>
+    <key>oauthScopes</key>
+    <array>
+        <string>web</string>
+        <string>api</string>
+        <string>offline_access</string>
+    </array>
+    <key>shouldAuthenticate</key>
+    <false/>
+</dict> -->
+
+</plist>

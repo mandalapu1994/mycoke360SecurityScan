@@ -1,0 +1,582 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 52;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0295AAA49FB545ECABE5256D /* Gilroy-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4A4C7CF619741A7A02857C0 /* Gilroy-Medium.ttf */; };
+		0A29EE0E56274101B61F35C6 /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A31DB8CA1BF74C688806240D /* Inter-Black.ttf */; };
+		0B5C846A1C5244EB9A73BD9D /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9CBB79D0733B44A1852F0D0C /* Inter-SemiBold.ttf */; };
+		0C537030D39C4026AE158AE7 /* Inter-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C80654B635904D7394618319 /* Inter-ExtraLight.ttf */; };
+		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
+		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		198820F5C9AE4A2A95D2ED8D /* Inter-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9FEFCA87B72B4C93A63F2688 /* Inter-Thin.ttf */; };
+		1F8AD51913BE4613A385A8EE /* Gilroy-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4CF673571B6849A483235420 /* Gilroy-Regular.ttf */; };
+		2028E3139ADA4C8C9E31F634 /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2DEFF31A406D4CDC93492B69 /* Inter-ExtraBold.ttf */; };
+		2B92E5132A829DAB0094A321 /* hermes.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B8C6A712A73998900FCE4A9 /* hermes.xcframework */; };
+		30CA10B403A3414B8D555293 /* Gilroy-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D7BB7BF1F4EB49AC914EE1F6 /* Gilroy-Bold.ttf */; };
+		46029C578AFB452F8ECFC15F /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AB69F4D691FC46EE99954DD5 /* Inter-Medium.ttf */; };
+		4F3AFF401DC2C79E006FF6B0 /* InitialViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3AFF3E1DC2C79E006FF6B0 /* InitialViewController.m */; };
+		4F4E8D19F4F34DAA84A1AE7C /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2E50CAD03674476BBDF4705B /* Inter-Regular.ttf */; };
+		60287B8C426A450EBFF3A3EF /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0CCBF6061C1A4A3490D7F49D /* Inter-Light.ttf */; };
+		845E3B6E2AC71AD900EB068D /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = 845E3B6D2AC71AD900EB068D /* main.jsbundle */; };
+		84CC22232AC7044500BC3E70 /* assets in Resources */ = {isa = PBXBuildFile; fileRef = 84CC22222AC7044500BC3E70 /* assets */; };
+		88376BBD31B94D4382709364 /* Gilroy-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CCFAE090FB5D4091B9D5F9F7 /* Gilroy-Semibold.ttf */; };
+		B7168FBE1FACC7EB00A48DB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7168FBD1FACC7EB00A48DB5 /* LaunchScreen.storyboard */; };
+		B77BD8AF2113632C0036B284 /* bootconfig.plist in Resources */ = {isa = PBXBuildFile; fileRef = B77BD8AE2113632C0036B284 /* bootconfig.plist */; };
+		BBA5FB2C2F62417B8D3CD6B5 /* Gilroy-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F2518ED6102548F994BFFE9E /* Gilroy-ExtraBold.ttf */; };
+		C4FB67232B384A0FA2A31D05 /* Gilroy-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B28B4A79260D48A794FF1D87 /* Gilroy-Light.ttf */; };
+		CEA8CA061F071C3300448B51 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEA8CA051F071C3300448B51 /* Images.xcassets */; };
+		E29F9D882AC43E2C009FAE73 /* AppCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = E29F9D872AC43E2C009FAE73 /* AppCenter-Config.plist */; };
+		EFC421FFB32F025D03B2098A /* libPods-myCoke360.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EBCA6874E409599DA90291CF /* libPods-myCoke360.a */; };
+		F6CB2877AA4A458FBD62F98B /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C780F0DF9C0B4CAB8A63A2DB /* Inter-Bold.ttf */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0004AA1150AAFDDCAEB90FEC /* Pods-myCoke360.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myCoke360.release.xcconfig"; path = "Target Support Files/Pods-myCoke360/Pods-myCoke360.release.xcconfig"; sourceTree = "<group>"; };
+		05FC9083C6CDA9781459AEA0 /* Pods-myCoke360.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myCoke360.debug.xcconfig"; path = "Target Support Files/Pods-myCoke360/Pods-myCoke360.debug.xcconfig"; sourceTree = "<group>"; };
+		0CCBF6061C1A4A3490D7F49D /* Inter-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Light.ttf"; path = "../src/assets/fonts/Inter-Light.ttf"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* myCoke360.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myCoke360.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = myCoke360/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = myCoke360/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = myCoke360/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = myCoke360/main.m; sourceTree = "<group>"; };
+		2B8C6A712A73998900FCE4A9 /* hermes.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = hermes.xcframework; path = "Pods/hermes-engine/destroot/Library/Frameworks/universal/hermes.xcframework"; sourceTree = "<group>"; };
+		2DEFF31A406D4CDC93492B69 /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-ExtraBold.ttf"; path = "../src/assets/fonts/Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
+		2E50CAD03674476BBDF4705B /* Inter-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Regular.ttf"; path = "../src/assets/fonts/Inter-Regular.ttf"; sourceTree = "<group>"; };
+		4CF673571B6849A483235420 /* Gilroy-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-Regular.ttf"; path = "../src/assets/fonts/Gilroy-Regular.ttf"; sourceTree = "<group>"; };
+		4F3AFF3D1DC2C79E006FF6B0 /* InitialViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = InitialViewController.h; path = myCoke360/InitialViewController.h; sourceTree = "<group>"; };
+		4F3AFF3E1DC2C79E006FF6B0 /* InitialViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = InitialViewController.m; path = myCoke360/InitialViewController.m; sourceTree = "<group>"; };
+		4FF12F8E1DCA93E2004D9EF9 /* myCoke360.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = myCoke360.entitlements; path = myCoke360/myCoke360.entitlements; sourceTree = "<group>"; };
+		845E3B6D2AC71AD900EB068D /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
+		84CC22222AC7044500BC3E70 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
+		9CBB79D0733B44A1852F0D0C /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-SemiBold.ttf"; path = "../src/assets/fonts/Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		9FEFCA87B72B4C93A63F2688 /* Inter-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Thin.ttf"; path = "../src/assets/fonts/Inter-Thin.ttf"; sourceTree = "<group>"; };
+		A31DB8CA1BF74C688806240D /* Inter-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Black.ttf"; path = "../src/assets/fonts/Inter-Black.ttf"; sourceTree = "<group>"; };
+		A4A4C7CF619741A7A02857C0 /* Gilroy-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-Medium.ttf"; path = "../src/assets/fonts/Gilroy-Medium.ttf"; sourceTree = "<group>"; };
+		AB69F4D691FC46EE99954DD5 /* Inter-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Medium.ttf"; path = "../src/assets/fonts/Inter-Medium.ttf"; sourceTree = "<group>"; };
+		B28B4A79260D48A794FF1D87 /* Gilroy-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-Light.ttf"; path = "../src/assets/fonts/Gilroy-Light.ttf"; sourceTree = "<group>"; };
+		B7168FBD1FACC7EB00A48DB5 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "../mobile_sdk/SalesforceMobileSDK-iOS/shared/resources/LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		B77BD8AE2113632C0036B284 /* bootconfig.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = bootconfig.plist; path = myCoke360/bootconfig.plist; sourceTree = "<group>"; };
+		C780F0DF9C0B4CAB8A63A2DB /* Inter-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Bold.ttf"; path = "../src/assets/fonts/Inter-Bold.ttf"; sourceTree = "<group>"; };
+		C80654B635904D7394618319 /* Inter-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-ExtraLight.ttf"; path = "../src/assets/fonts/Inter-ExtraLight.ttf"; sourceTree = "<group>"; };
+		CCFAE090FB5D4091B9D5F9F7 /* Gilroy-Semibold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-Semibold.ttf"; path = "../src/assets/fonts/Gilroy-Semibold.ttf"; sourceTree = "<group>"; };
+		CEA8CA051F071C3300448B51 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "../mobile_sdk/SalesforceMobileSDK-iOS/shared/resources/Images.xcassets"; sourceTree = "<group>"; };
+		D7BB7BF1F4EB49AC914EE1F6 /* Gilroy-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-Bold.ttf"; path = "../src/assets/fonts/Gilroy-Bold.ttf"; sourceTree = "<group>"; };
+		E29F9D872AC43E2C009FAE73 /* AppCenter-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "AppCenter-Config.plist"; path = "myCoke360/AppCenter-Config.plist"; sourceTree = "<group>"; };
+		EBCA6874E409599DA90291CF /* libPods-myCoke360.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-myCoke360.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F2518ED6102548F994BFFE9E /* Gilroy-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Gilroy-ExtraBold.ttf"; path = "../src/assets/fonts/Gilroy-ExtraBold.ttf"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		13B07F8C1A680F5B00A75B9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B92E5132A829DAB0094A321 /* hermes.xcframework in Frameworks */,
+				EFC421FFB32F025D03B2098A /* libPods-myCoke360.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0C49827D7E0D4C9C997F2D2F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A31DB8CA1BF74C688806240D /* Inter-Black.ttf */,
+				C780F0DF9C0B4CAB8A63A2DB /* Inter-Bold.ttf */,
+				2DEFF31A406D4CDC93492B69 /* Inter-ExtraBold.ttf */,
+				C80654B635904D7394618319 /* Inter-ExtraLight.ttf */,
+				0CCBF6061C1A4A3490D7F49D /* Inter-Light.ttf */,
+				AB69F4D691FC46EE99954DD5 /* Inter-Medium.ttf */,
+				2E50CAD03674476BBDF4705B /* Inter-Regular.ttf */,
+				9CBB79D0733B44A1852F0D0C /* Inter-SemiBold.ttf */,
+				9FEFCA87B72B4C93A63F2688 /* Inter-Thin.ttf */,
+				D7BB7BF1F4EB49AC914EE1F6 /* Gilroy-Bold.ttf */,
+				F2518ED6102548F994BFFE9E /* Gilroy-ExtraBold.ttf */,
+				B28B4A79260D48A794FF1D87 /* Gilroy-Light.ttf */,
+				A4A4C7CF619741A7A02857C0 /* Gilroy-Medium.ttf */,
+				4CF673571B6849A483235420 /* Gilroy-Regular.ttf */,
+				CCFAE090FB5D4091B9D5F9F7 /* Gilroy-Semibold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		113F9859C53F4BED2CA31842 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				05FC9083C6CDA9781459AEA0 /* Pods-myCoke360.debug.xcconfig */,
+				0004AA1150AAFDDCAEB90FEC /* Pods-myCoke360.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		13B07FAE1A68108700A75B9A /* myCoke360 */ = {
+			isa = PBXGroup;
+			children = (
+				4FF12F8E1DCA93E2004D9EF9 /* myCoke360.entitlements */,
+				4F3AFF421DC2C856006FF6B0 /* Classes */,
+				4F3AFF431DC2C869006FF6B0 /* Supporting Files */,
+			);
+			name = myCoke360;
+			sourceTree = "<group>";
+		};
+		4F3AFF421DC2C856006FF6B0 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4F3AFF3D1DC2C79E006FF6B0 /* InitialViewController.h */,
+				4F3AFF3E1DC2C79E006FF6B0 /* InitialViewController.m */,
+				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
+				13B07FB01A68108700A75B9A /* AppDelegate.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		4F3AFF431DC2C869006FF6B0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B77BD8AE2113632C0036B284 /* bootconfig.plist */,
+				B7168FBD1FACC7EB00A48DB5 /* LaunchScreen.storyboard */,
+				CEA8CA051F071C3300448B51 /* Images.xcassets */,
+				13B07FB71A68108700A75B9A /* main.m */,
+				13B07FB61A68108700A75B9A /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		83CBB9F61A601CBA00E9B192 = {
+			isa = PBXGroup;
+			children = (
+				845E3B6D2AC71AD900EB068D /* main.jsbundle */,
+				84CC22222AC7044500BC3E70 /* assets */,
+				E29F9D872AC43E2C009FAE73 /* AppCenter-Config.plist */,
+				13B07FAE1A68108700A75B9A /* myCoke360 */,
+				83CBBA001A601CBA00E9B192 /* Products */,
+				113F9859C53F4BED2CA31842 /* Pods */,
+				F877884A5FB4D68268D0F4D2 /* Frameworks */,
+				0C49827D7E0D4C9C997F2D2F /* Resources */,
+			);
+			indentWidth = 2;
+			sourceTree = "<group>";
+			tabWidth = 2;
+		};
+		83CBBA001A601CBA00E9B192 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				13B07F961A680F5B00A75B9A /* myCoke360.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F877884A5FB4D68268D0F4D2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2B8C6A712A73998900FCE4A9 /* hermes.xcframework */,
+				EBCA6874E409599DA90291CF /* libPods-myCoke360.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		13B07F861A680F5B00A75B9A /* myCoke360 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "myCoke360" */;
+			buildPhases = (
+				0E7F2D8DBB0F5B7253750A1D /* [CP] Check Pods Manifest.lock */,
+				13B07F871A680F5B00A75B9A /* Sources */,
+				13B07F8C1A680F5B00A75B9A /* Frameworks */,
+				13B07F8E1A680F5B00A75B9A /* Resources */,
+				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				D7EC95D1E2C349CF68737E4D /* [CP] Embed Pods Frameworks */,
+				13E7F36A9A7CD6C62962137F /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = myCoke360;
+			productName = "Hello World";
+			productReference = 13B07F961A680F5B00A75B9A /* myCoke360.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		83CBB9F71A601CBA00E9B192 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1020;
+				ORGANIZATIONNAME = myCoke360OrganizationName;
+				TargetAttributes = {
+					13B07F861A680F5B00A75B9A = {
+						LastSwiftMigration = 1100;
+						SystemCapabilities = {
+							com.apple.Keychain = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "myCoke360" */;
+			compatibilityVersion = "Xcode 10.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 83CBB9F61A601CBA00E9B192;
+			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				13B07F861A680F5B00A75B9A /* myCoke360 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		13B07F8E1A680F5B00A75B9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B77BD8AF2113632C0036B284 /* bootconfig.plist in Resources */,
+				CEA8CA061F071C3300448B51 /* Images.xcassets in Resources */,
+				B7168FBE1FACC7EB00A48DB5 /* LaunchScreen.storyboard in Resources */,
+				0A29EE0E56274101B61F35C6 /* Inter-Black.ttf in Resources */,
+				F6CB2877AA4A458FBD62F98B /* Inter-Bold.ttf in Resources */,
+				2028E3139ADA4C8C9E31F634 /* Inter-ExtraBold.ttf in Resources */,
+				E29F9D882AC43E2C009FAE73 /* AppCenter-Config.plist in Resources */,
+				0C537030D39C4026AE158AE7 /* Inter-ExtraLight.ttf in Resources */,
+				84CC22232AC7044500BC3E70 /* assets in Resources */,
+				60287B8C426A450EBFF3A3EF /* Inter-Light.ttf in Resources */,
+				46029C578AFB452F8ECFC15F /* Inter-Medium.ttf in Resources */,
+				4F4E8D19F4F34DAA84A1AE7C /* Inter-Regular.ttf in Resources */,
+				845E3B6E2AC71AD900EB068D /* main.jsbundle in Resources */,
+				0B5C846A1C5244EB9A73BD9D /* Inter-SemiBold.ttf in Resources */,
+				198820F5C9AE4A2A95D2ED8D /* Inter-Thin.ttf in Resources */,
+				30CA10B403A3414B8D555293 /* Gilroy-Bold.ttf in Resources */,
+				BBA5FB2C2F62417B8D3CD6B5 /* Gilroy-ExtraBold.ttf in Resources */,
+				C4FB67232B384A0FA2A31D05 /* Gilroy-Light.ttf in Resources */,
+				0295AAA49FB545ECABE5256D /* Gilroy-Medium.ttf in Resources */,
+				1F8AD51913BE4613A385A8EE /* Gilroy-Regular.ttf in Resources */,
+				88376BBD31B94D4382709364 /* Gilroy-Semibold.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Bundle React Native code and images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export NODE_BINARY=node\n";
+		};
+		0E7F2D8DBB0F5B7253750A1D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-myCoke360-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		13E7F36A9A7CD6C62962137F /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-myCoke360/Pods-myCoke360-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-myCoke360/Pods-myCoke360-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-myCoke360/Pods-myCoke360-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D7EC95D1E2C349CF68737E4D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-myCoke360/Pods-myCoke360-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-myCoke360/Pods-myCoke360-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-myCoke360/Pods-myCoke360-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		13B07F871A680F5B00A75B9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4F3AFF401DC2C79E006FF6B0 /* InitialViewController.m in Sources */,
+				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
+				13B07FC11A68108700A75B9A /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		13B07F941A680F5B00A75B9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 05FC9083C6CDA9781459AEA0 /* Pods-myCoke360.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = myCoke360/myCoke360.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 2978HHRNS6;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SRCROOT)/../node_modules/react-native/React/**",
+				);
+				INFOPLIST_FILE = myCoke360/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "MyCoke360 QA";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.mycoke360.ios.cona.qa;
+				PRODUCT_NAME = myCoke360;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "myCoke360 QA Development";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		13B07F951A680F5B00A75B9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0004AA1150AAFDDCAEB90FEC /* Pods-myCoke360.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = myCoke360/myCoke360.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 2978HHRNS6;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SRCROOT)/../node_modules/react-native/React/**",
+				);
+				INFOPLIST_FILE = myCoke360/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "MyCoke360 QA";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.mycoke360.ios.cona.qa;
+				PRODUCT_NAME = myCoke360;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "myCoke360 QA Ad Hoc";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+		83CBBA201A601CBA00E9B192 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SRCROOT)/../node_modules/react-native/React/**",
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		83CBBA211A601CBA00E9B192 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SRCROOT)/../node_modules/react-native/React/**",
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "myCoke360" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				13B07F941A680F5B00A75B9A /* Debug */,
+				13B07F951A680F5B00A75B9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "myCoke360" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				83CBBA201A601CBA00E9B192 /* Debug */,
+				83CBBA211A601CBA00E9B192 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
+}

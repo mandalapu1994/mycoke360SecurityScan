@@ -1,0 +1,32 @@
+{
+    "delivery_information": "Delivery Information",
+    "pickup_options": "Pickup Options",
+    "co2_cylinders": "Co2 Cylinders",
+    "glass_bottles": "Glass Bottles",
+    "delivery_date": "Delivery Date",
+    "shipping_address": "Shipping Address",
+    "driver_shipping_notes": "Driver & Shipping Notes",
+    "shipping_method": "Shipping Method",
+    "payment_information": "Payment Information",
+    "Payment_Method": {
+        "title": "Payment Method",
+        "card": "Card",
+        "eCheck": "E-Check",
+        "invoice_me": "Invoice Me",
+        "net_due_upon_delivery": "Net Due \nUpon Delivery",
+    },
+    "PO_Num": "PO Number",
+    "Saved_cards": "Saved Cards",
+    "cvv": "CVV",
+    "review_order": "Review Order",
+    "order_summary": {
+        "title": "Order Summary",
+        "subtotal": "Subtotal",
+        "delivery_charge": "Delivery Charge",
+        "deposit": "Deposit",
+        "tax": "Tax",
+        "total": "Total",
+        "final_text": "Final amount will be determined at delivery"
+    }
+
+}

@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Gilroy-Bold.ttf",
+      "sha1": "e2c447a2dd1c9db13716c887137efd971597715d"
+    },
+    {
+      "path": "src/assets/fonts/Gilroy-ExtraBold.ttf",
+      "sha1": "ebd136c81542a067830d5852b785d069403c4a15"
+    },
+    {
+      "path": "src/assets/fonts/Gilroy-Light.ttf",
+      "sha1": "78410fd9e800f48e3ffa140497ba2d65ac169d22"
+    },
+    {
+      "path": "src/assets/fonts/Gilroy-Medium.ttf",
+      "sha1": "d294fcd4cff74d2839a073849fb97ee80fedfb69"
+    },
+    {
+      "path": "src/assets/fonts/Gilroy-Regular.ttf",
+      "sha1": "456447dc0539c0bb6876ab2dad634c9b2061844a"
+    },
+    {
+      "path": "src/assets/fonts/Gilroy-Semibold.ttf",
+      "sha1": "99697c0ebb4ba00e4079c6d99161808676798b41"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Black.ttf",
+      "sha1": "a5a6ebe18c63d0bf218ff7f65646e67e25ea5eea"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Bold.ttf",
+      "sha1": "444cdca680f8ce64c16fe5a606dcfbe4b33e7925"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraBold.ttf",
+      "sha1": "7547e67ff62f82c640e3075248bc6c822aee0855"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraLight.ttf",
+      "sha1": "da0dc1179ebdc16276e796eace4c09571f7e916d"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Light.ttf",
+      "sha1": "732e278a85762a0edfb4e077e44e3eb39d8af92e"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Medium.ttf",
+      "sha1": "9674d43c8207459a432863c47c3858d2244c19ec"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Regular.ttf",
+      "sha1": "c2767d146c3c10fe6c9b8ac0f181ef907c111f19"
+    },
+    {
+      "path": "src/assets/fonts/Inter-SemiBold.ttf",
+      "sha1": "acda92adc6cf8c67c89395c65f371a4d2b05a783"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Thin.ttf",
+      "sha1": "d1b59b2d183df924230e894de9d63ab16563a574"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "order_date": "3/9/2023",
+  "order_number": "O-0031102737",
+  "status": "Recieved",
+  "account_info": {
+    "buyer_address": "Nicole Sears \n(863)949-4800\n ndexter041192@gmail.com",
+    "billing_address": "Nicole Sears Holiday inn express 2953 \n Ridge Waylake Wales ,FL 33859-6805 \n USA4500-0500420856"
+  },
+  "delivery_info": {
+    "delivery_date": "04/16/2023",
+    "shipping_method": "UPS pricate delivery services",
+    "shipping_add": "Holiday Inn express,2953 Ridge Waylake Wales,FL 33859-6805 USA4500-0500420856",
+    "Driver_notes": "Lorem ispusm Simply dummy text of the printing and typesetting industry",
+    "pickup_option": "Pixkup Notes Lorem ispusm Simply dummy text to setup "
+  },
+  "payment_info": {
+    "payment_method": "SnapPay",
+    "PO Number": "237890024"
+  },
+  "productsInfo": {
+    "productTitle": "Diet Coke Bottles,20 fl oz,24 Pack",
+    "sku": "119827",
+    "upc": "490000400458",
+    "price": "$150.37",
+    "savedPrice": "$50.42"
+  },
+  "orderSummary": {
+    "orderHighlight": "Order Summary (8 items | 24 Crates)",
+    "finalAmtTxt": "*Final amount will be determined at delivery"
+  },
+  "cartData": {
+    "productsInfo": [
+      {
+        "id": 111,
+        "productTitle": "Diet Coke Bottles,20 fl oz,24 Pack",
+        "sku": "119827",
+        "upc": "490000400458",
+        "price": "$150.37",
+        "savedPrice": "$0.00",
+        "quantity": 0,
+        "isOutOfStock": true,
+        "contracted": true
+      },
+      {
+        "id": 222,
+        "productTitle": "Vitamin water XXX, acai-blueberry-pomegranate, 20 fl oz, 24 Pack",
+        "sku": "119827",
+        "upc": "490000400458",
+        "price": "$150.37",
+        "savedPrice": "$0.00",
+        "quantity": 0,
+        "isOutOfStock": true,
+        "contracted": true
+      },
+      {
+        "id": 333,
+        "productTitle": "Diet Coke Bottles,\n 20 fl oz,24 Pack",
+        "sku": "119827",
+        "upc": "490000400458",
+        "price": "$150.37",
+        "savedPrice": "$0.00",
+        "quantity": 0,
+        "isOutOfStock": false,
+        "contracted": true
+      },
+      {
+        "id": 444,
+        "productTitle": "Diet Coke Bottles,\n 20 fl oz,24 Pack",
+        "sku": "119827",
+        "upc": "490000400458",
+        "price": "$150.37",
+        "savedPrice": "$0.00",
+        "quantity": 0,
+        "isOutOfStock": false,
+        "contracted": true
+      },
+      {
+        "id": 555,
+        "productTitle": "Diet Coke Bottle,\n 20 fl oz,24 Pack",
+        "sku": "119827",
+        "upc": "490000400458",
+        "price": "$150.37",
+        "savedPrice": "$0.00",
+        "quantity": 0,
+        "isOutOfStock": false,
+        "contracted": true
+      },
+      {
+        "id": 666,
+        "productTitle": "Diet Coke Bottles,\n 20 fl oz,24 Pack",
+        "sku": "119827",
+        "upc": "490000400458",
+        "price": "$150.37",
+        "savedPrice": "$0.00",
+        "quantity": 0,
+        "isOutOfStock": false,
+        "contracted": true
+      },
+      {
+        "id": 777,
+        "productTitle": "Diet Coke Bottles,\n 20 fl oz,24 Pack",
+        "sku": "119827",
+        "upc": "490000400458",
+        "price": "$150.37",
+        "savedPrice": "$0.00",
+        "quantity": 0,
+        "isOutOfStock": false,
+        "contracted": true
+      }
+    ]
+  },
+  "orderHistory": [
+    {
+      "orderNo": "0-0051202399",
+
+      "orderDate": "Fri Jun 05 2023 13:02:11 GMT+0530 (India Standard Time)",
+
+      "invoiceNo": "22295479792",
+
+      "transactionId": "22295479791",
+
+      "amount": "$540.85",
+
+      "status": "Cancelled",
+
+      "deliveryMethod": {
+        "methodTitle": "Coca-Cola Truck",
+
+        "extraData1": "1Z8064R12345",
+
+        "extraData2": "1Z8064R12345",
+
+        "extraData3": "1Z8064R12345"
+      }
+    },
+
+    {
+      "orderNo": "0-0051202399",
+
+      "orderDate": "Fri July 10 2023 13:02:11 GMT+0530 (India Standard Time)",
+
+      "invoiceNo": "22295479792",
+
+      "transactionId": "22295479791",
+
+      "amount": "$510.85",
+
+      "status": "Cancelled",
+
+      "deliveryMethod": {
+        "methodTitle": "UPS",
+
+        "extraData1": "1Z8064R12345",
+
+        "extraData2": "1Z8064R12345",
+
+        "extraData3": "1Z8064R12345"
+      }
+    },
+
+    {
+      "orderNo": "0-0031102737",
+
+      "orderDate": "Fri Jun 20 2023 13:02:11 GMT+0530 (India Standard Time)",
+
+      "invoiceNo": "22295479791",
+
+      "transactionId": "22295479791",
+
+      "amount": "$580.84",
+
+      "status": "Delivered",
+
+      "deliveryMethod": {
+        "methodTitle": "Coca-Cola Truck",
+
+        "extraData1": "1Z8064R12345",
+
+        "extraData2": "1Z8064R12345",
+
+        "extraData3": "1Z8064R12345"
+      }
+    },
+
+    {
+      "orderNo": "0-0052102799",
+
+      "orderDate": "Fri July 30 2023 13:02:11 GMT+0530 (India Standard Time)",
+
+      "invoiceNo": "22295479793",
+
+      "transactionId": "22295479791",
+
+      "amount": "$560.80",
+
+      "status": "Delivered",
+
+      "deliveryMethod": {
+        "methodTitle": "UPS",
+
+        "extraData1": "1Z8064R12345",
+
+        "extraData2": "1Z8064R12345",
+
+        "extraData3": "1Z8064R12345"
+      }
+    },
+
+    {
+      "orderNo": "0-0052202654",
+
+      "orderDate": "Fri Jun 11 2023 13:02:11 GMT+0530 (India Standard Time)",
+
+      "invoiceNo": "22295479790",
+
+      "transactionId": "22295479791",
+
+      "amount": "$450.82",
+
+      "status": "Order Prepaired",
+
+      "deliveryMethod": {
+        "methodTitle": "UPS",
+
+        "extraData1": "1Z8064R12345",
+
+        "extraData2": "1Z8064R12345",
+
+        "extraData3": "1Z8064R12345"
+      }
+    },
+
+    {
+      "orderNo": "0-0052202654",
+
+      "orderDate": "Fri July 30 2023 13:02:11 GMT+0530 (India Standard Time)",
+
+      "invoiceNo": "22295479790",
+
+      "transactionId": "22295479791",
+
+      "amount": "$350.82",
+
+      "status": "Order Prepaired",
+
+      "deliveryMethod": {
+        "methodTitle": "Coca-Cola Truck",
+
+        "extraData1": "1Z8064R12345",
+
+        "extraData2": "1Z8064R12345",
+
+        "extraData3": "1Z8064R12345"
+      }
+    }
+  ],
+  "DELIVERY_METHOD_DATA": [
+    {
+      "id": 201,
+      "title": "Coca-Cola Truck",
+      "checked": false
+    },
+    {
+      "id": 202,
+      "title": "UPS",
+      "checked": false
+    }
+  ],
+  "ORDER_STATUS_DATA": [
+    {
+      "id": 101,
+      "title": "All Order Status",
+      "checked": false
+    },
+    {
+      "id": 102,
+      "title": "Order Received",
+      "checked": false
+    },
+    {
+      "id": 103,
+      "title": "Order Prepaired",
+      "checked": false
+    },
+    {
+      "id": 104,
+      "title": "Out for Delivery",
+      "checked": false
+    },
+    {
+      "id": 105,
+      "title": "Delivered",
+      "checked": false
+    },
+    {
+      "id": 106,
+      "title": "Cancelled",
+      "checked": false
+    }
+  ]
+}

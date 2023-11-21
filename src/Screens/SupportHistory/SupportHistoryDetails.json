@@ -1,0 +1,180 @@
+{
+    "equipmentService":[
+        {
+            "case_no":"0-7080102737",
+            "created_on":"Fri Jun 30 2023 13:02:11 GMT+0530 (India Standard Time)",
+            "business_contact":"demoexample@domain.com",
+            "equipmen_type":"Cooler",
+            "problem_type":"General Maintenance",   
+            "problem_desc":"Bottle Or Can Conversion",
+             "availability":"Mon-Fri\n(06:30 AM - 12:00 PM) ET",
+            "message":"I'm experiencing a malfunction with my [equipment name/model]. Please assist me in resolving this issue promptly.",
+            "contactName":"John Doe",
+            "accNo":"0501024680",
+            "zipCode":"32803",
+            "phoneNo":"(123)-456-7890",
+            "email":"email@domain.com",
+            "last_modified":"Last Modified 09/03/2023 - 02:38 PM EDT",
+            "status":"Open"
+
+        },
+        {
+            "case_no":"0-7080102738",
+            "created_on":"Tue Jun 20 2023 13:02:11 GMT+0530 (India Standard Time)",
+            "business_contact":"demoexample@domain.com",
+            "equipmen_type":"Cooler",
+            "problem_type":"General Maintenance",
+            "problem_desc":"Bottle Or Can Conversion",
+             "availability":"Mon-Fri\n(06:30 AM - 12:00 PM) ET",
+            "message":"I'm experiencing a malfunction with my [equipment name/model]. Please assist me in resolving this issue promptly.",
+            "contactName":"John Doe",
+            "accNo":"0501024680",
+            "zipCode":"32803",
+            "phoneNo":"(123)-456-7890",
+            "email":"email@domain.com",
+            "last_modified":"Last Modified 09/03/2023 - 02:38 PM EDT",
+            "status":"Open"
+        },
+        {
+            "case_no":"0-7080102739",
+            "created_on":"Thu Jun 15 2023 13:02:11 GMT+0530 (India Standard Time)",
+            "business_contact":"demoexample@domain.com",
+            "equipmen_type":"Cooler",
+            "problem_type":"General Maintenance",
+            "problem_desc":"Bottle Or Can Conversion",
+            "availability":"Mon-Fri\n(06:30 AM - 12:00 PM) ET",
+            "message":"I'm experiencing a malfunction with my [equipment name/model]. Please assist me in resolving this issue promptly.",
+            "contactName":"John Doe",
+            "accNo":"0501024680",
+            "zipCode":"32803",
+            "phoneNo":"(123)-456-7890",
+            "email":"email@domain.com",
+            "last_modified":"Last Modified 09/03/2023 - 02:38 PM EDT",
+            "status":"Closed"
+        },
+        {
+            "case_no":"0-7080102736",
+            "created_on":"Sun Jun 18 2023 13:02:11 GMT+0530 (India Standard Time)",
+            "business_contact":"demoexample@domain.com",
+            "equipmen_type":"Cooler",
+            "problem_type":"General Maintenance",
+            "problem_desc":"Bottle Or Can Conversion",
+             "availability":"Mon-Fri\n(06:30 AM - 12:00 PM) ET",
+            "message":"I'm experiencing a malfunction with my [equipment name/model]. Please assist me in resolving this issue promptly.",
+            "contactName":"John Doe",
+            "accNo":"0501024680",
+            "zipCode":"32803",
+            "phoneNo":"(123)-456-7890",
+            "email":"email@domain.com",
+            "last_modified":"Last Modified 09/03/2023 - 02:38 PM EDT",
+            "status":"Open"
+        },
+        {
+            "case_no":"0-7080102735",
+            "created_on":"Fri Jun 30 2023 13:02:11 GMT+0530 (India Standard Time)",
+            "business_contact":"demoexample@domain.com",
+            "equipmen_type":"Cooler",
+            "problem_type":"General Maintenance",
+            "problem_desc":"Bottle Or Can Conversion",
+             "availability":"Mon-Fri\n(06:30 AM - 12:00 PM) ET",
+            "message":"I'm experiencing a malfunction with my [equipment name/model]. Please assist me in resolving this issue promptly.",
+            "contactName":"John Doe",
+            "accNo":"0501024680",
+            "zipCode":"32803",
+            "phoneNo":"(123)-456-7890",
+            "email":"email@domain.com",
+            "last_modified":"Last Modified 09/03/2023 - 02:38 PM EDT",
+            "status":"Closed"
+        }
+    ],
+    "customerSupport":[
+        {
+            "case_no":"0-7080102794",
+            "created_on":"05/03/2023,02:30 PM ET",
+            "business_contact":"demoexample@domain.com 123-456-7890",
+            "problem_type":[
+                "Delivery Related Inquiry/Issue",
+                "Future Deliveries",
+                "Change how I receive my product",
+                "I receive my product by a carrier (UPS, FedEx or other)",
+                "Alternate distributor of Coca-Cola"
+            ],
+            "message":"I'm writing regarding my order #12345. The delivery is overdue, and the tracking hasn't been updated. Could you please investigate and provide an update on the delivery status? Your prompt assistance is greatly appreciated.",
+            "contactName":"John Doe",
+            "accNo":"0501024680",
+            "zipCode":"32803",
+            "phoneNo":"(123)-456-7890",
+            "email":"email@domain.com",
+             "last_modified":"Last Modified 09/03/2023 - 02:38 PM EDT",
+            "status":"Open"
+        },
+        {
+            "case_no":"0-7080102794",
+            "created_on":"05/03/2023,02:30 PM ET",
+            "business_contact":"demoexample@domain.com 123-456-7890",
+            "problem_type":[
+                "Delivery Related Inquiry/Issue",
+                "Future Deliveries",
+                "Change how I receive my product",
+                "I receive my product by a carrier (UPS, FedEx or other)",
+                "Alternate distributor of Coca-Cola"
+            ],
+            "message":"I'm writing regarding my order #12345. The delivery is overdue, and the tracking hasn't been updated. Could you please investigate and provide an update on the delivery status? Your prompt assistance is greatly appreciated.",
+            "contactName":"John Doe",
+            "accNo":"0501024680",
+            "zipCode":"32803",
+            "phoneNo":"(123)-456-7890",
+            "email":"email@domain.com",
+            "status":"Open"
+        },
+        {
+            "case_no":"0-7080102794",
+            "created_on":"05/03/2023,02:30 PM ET",
+            "business_contact":"demoexample@domain.com 123-456-7890",
+            "problem_type":[
+                "Delivery Related Inquiry/Issue",
+                "Future Deliveries",
+                "Change how I receive my product",
+                "I receive my product by a carrier (UPS, FedEx or other)",
+                "Alternate distributor of Coca-Cola"
+            ],
+            "message":"I'm writing regarding my order #12345. The delivery is overdue, and the tracking hasn't been updated. Could you please investigate and provide an update on the delivery status? Your prompt assistance is greatly appreciated.",
+            "contactName":"John Doe",
+            "accNo":"0501024680",
+            "zipCode":"32803",
+            "phoneNo":"(123)-456-7890",
+            "email":"email@domain.com",
+             "last_modified":"Last Modified 09/03/2023 - 02:38 PM EDT",
+            "status":"Open"
+        },
+        {
+            "case_no":"0-7080102794",
+            "created_on":"05/03/2023,02:30 PM ET",
+            "business_contact":"demoexample@domain.com 123-456-7890",
+            "problem_type":[
+                "Delivery Related Inquiry/Issue",
+                "Future Deliveries",
+                "Change how I receive my product",
+                "I receive my product by a carrier (UPS, FedEx or other)",
+                "Alternate distributor of Coca-Cola"
+            ],
+            "message":"I'm writing regarding my order #12345. The delivery is overdue, and the tracking hasn't been updated. Could you please investigate and provide an update on the delivery status? Your prompt assistance is greatly appreciated.",
+            "contactName":"John Doe",
+            "accNo":"0501024680",
+            "zipCode":"32803",
+            "phoneNo":"(123)-456-7890",
+            "email":"email@domain.com",
+             "last_modified":"Last Modified 09/03/2023 - 02:38 PM EDT",
+            "status":"Open"
+        }
+
+
+    ],
+    "cancelTicketResons":[
+        "Taking too long",
+        "CCNA vs Local",
+        "Erroneous entry",
+        "Holiday/Vacation Closure",
+        "Inclement Weather"
+    ]
+}

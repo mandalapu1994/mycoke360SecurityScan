@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <!-- <resources>
+    <string name="remoteAccessConsumerKey">3MVG9wt4IL4O5wvI1snANZuinMLKse5GVyLGQaKwg_eP.9V8ykMurEq7xIp.PnZNKLARhXUUv2kOYNLQ1GbPT</string>
+    <string name="oauthRedirectURI">https://login.salesforce.com/services/oauth2/success</string>
+    <string-array name="oauthScopes">
+        <item>api</item>
+		<item>web</item>
+        <item>offline_access</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources>  -->
+
+
+
+
+
+<!-- For  SDPN008  -->
+<!-- <resources>
+    <string name="remoteAccessConsumerKey">3MVG9qG3qyJ7I8u25Hw4uu6.PKRw7v.twzIA7Yu1vPu41uh3zalrN0VoMC2CbZ5tO9yscQ0NtkexJto832UYr</string>
+    <string name="oauthRedirectURI">https://test.salesforce.com/services/oauth2/success</string>
+    <string-array name="oauthScopes">
+        <item>api</item>
+        <item>web</item>
+        <item>offline_access</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources> -->
+
+
+<!-- For - Sandbox: SDPN009 -->
+<!-- <resources>
+
+    <string name="remoteAccessConsumerKey">3MVG9qG3qyJ7I8u35K..kKx8O8WXpUNcarCwugYh.HenOhkKZvDnHqAPSI2V.lpcNXrrgChpU2h0hTro4LPg8</string>
+    <string name="oauthRedirectURI">myCoke360:///mobilesdk/detect/oauth/done</string>
+    <string-array name="oauthScopes">
+        <item>api</item>
+        <item>web</item>
+        <item>offline_access</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources>  -->
+
+
+<!-- For - Sandbox: MPRN 001 -->
+<!-- <resources>
+    <string name="remoteAccessConsumerKey">3MVG9FG3dvS828gJdonCF8hFYsCcMrNZws9866zbf37BOgO3LU9yW9Pm3bRzbG4NfLYclUxVAIYHybBSQ33FL</string>
+    <string name="oauthRedirectURI">myCoke360:///mobilesdk/detect/oauth/done</string>
+    <string-array name="oauthScopes">
+        <item>api</item>
+        <item>web</item>
+        <item>offline_access</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources>  -->
+
+
+<!-- For - MPRN 002 Connected APP - myCoke360Mobile  -->
+<resources>
+    <string name="remoteAccessConsumerKey">3MVG9Ccwq.TeycMaEFqP7g7AurJG4DDpJeE1tCWYuxYtlUWcP3zumWSxxAQNb7HxkuuvfI3paGv5bcnS7OdLK</string>
+    <string name="oauthRedirectURI">myCoke360:///mobilesdk/detect/oauth/done</string>
+    <string-array name="oauthScopes">
+        <item>api</item>
+        <item>web</item>
+        <item>offline_access</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources> 
+
+<!-- For - LFLN011 Connected APP - myCoke360Mobile  -->
+<!-- <resources>
+    <string name="remoteAccessConsumerKey">3MVG9wy_WnyGrHdMwBTTuCQPI036zUEXp0q.IFJ9Bu6wVIdHc2ONqL9uSa86omkSQZSI8q5NHuT8DircUmntM</string>
+    <string name="oauthRedirectURI">myCoke360:///mobilesdk/detect/oauth/done</string>
+    <string-array name="oauthScopes">
+        <item>api</item>
+        <item>web</item>
+        <item>offline_access</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources>  -->
+
+
+

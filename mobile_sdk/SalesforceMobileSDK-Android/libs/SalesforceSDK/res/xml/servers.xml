@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<servers>
+    <!-- <server name="Production" url="https://login.salesforce.com" /> -->
+    <!-- <server name="Sandbox" url="https://test.salesforce.com" /> -->
+    <!-- <server name="SDPN009-site" url="https://cona-*-sdpn009.sandbox.my.site.com/myCoke360Mobile" /> -->
+    <server name="MPRN002" url="https://cona--mprn002.sandbox.my.site.com/myCoke360Mobile" />
+    <!-- <server name="LFLN011" url="https://cona-*-lfln011.sandbox.my.site.com/myCoke360Mobile" /> -->
+</servers>
